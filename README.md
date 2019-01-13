@@ -30,4 +30,4 @@ Example image:
 ![input image](data/image.jpg)
 
 Result of running `python3 ./main.py`:
-![scheme image](data/scheme.jpg)
+![scheme image](data/scheme.png)
